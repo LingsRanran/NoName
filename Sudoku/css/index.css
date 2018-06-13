@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div#sudokuBox{
+    margin: 100px auto;
+    width: 384px;
+    height: 384px;
+    border: 2px solid black;
+}
+
+.cBox{
+    width: 126px;
+    height: 126px;
+    border: 1px solid black;
+    float: left;
+}
+
+div.ccBox{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+    line-height: 40px;
+}
