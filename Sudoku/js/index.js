@@ -131,6 +131,6 @@ function findNum(num,arr){
 }
 
 $(function(){
-    // addXYClass();
+    addXYClass();
     // createSudoku();
 });
